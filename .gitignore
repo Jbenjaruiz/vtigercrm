@@ -5,3 +5,4 @@ vendor/*
 import.sh
 .svn
 nohup.out
+test/*
