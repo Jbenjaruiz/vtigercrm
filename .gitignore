@@ -1,2 +1,7 @@
 vendor/*
 !vendor/.htaccess
+# Logs files can safely be ignored.
+*.log
+import.sh
+.svn
+nohup.out
